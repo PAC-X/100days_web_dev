@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is another commit! 
+=======
+This is yet another commit! 
+>>>>>>> 3028082... Yet another commit to test.txt (feature)
 
 And here we go with commit #2!
